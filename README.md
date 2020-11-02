@@ -17,12 +17,12 @@ Desarrollo de un API para clasificación de imágenes usando Streamlit. Se prese
  
     $ streamlit run appCOVID.py
 
-## Resultado
+## Resultado Clasificador Imágenes CT COVID_19
 
 ![API web Streamlit + Deep Learning](https://github.com/DavidReveloLuna/APIDeep_Streamlit/blob/master/asssets/Resultado.jpg)
 
     $ streamlit run appAves.py
     
- ## Resultado
+ ## Resultado Clasificador Imágenes Aves
  
  ![API web Streamlit + Deep Learning](https://github.com/DavidReveloLuna/APIDeep_Streamlit/blob/master/asssets/Resultado2.jpg)
